@@ -1,0 +1,4 @@
+[mcp_servers.sqlite_lab]
+command = "python"
+args = ["/ABSOLUTE/PATH/TO/implementation/mcp_server.py"]
+description = "SQLite lab FastMCP server exposing search, insert, aggregate tools and schema resources"
